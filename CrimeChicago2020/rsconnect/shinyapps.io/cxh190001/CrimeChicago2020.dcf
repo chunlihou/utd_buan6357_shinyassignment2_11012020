@@ -1,0 +1,12 @@
+name: CrimeChicago2020
+title: CrimeChicago2020
+username:
+account: cxh190001
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3140781
+bundleId: 3808181
+url: https://cxh190001.shinyapps.io/CrimeChicago2020/
+when: 1604271605.36837
+asMultiple: FALSE
+asStatic: FALSE
